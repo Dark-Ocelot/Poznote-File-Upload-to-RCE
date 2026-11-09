@@ -2,7 +2,7 @@
 
 ## Security research by DarkOcelot
 
-This repository documents a security vulnerability affecting Poznote, a self-hosted note-taking and knowledge-management application.
+This repository contains a python script that exploits a vulnerability affecting Poznote, a self-hosted note-taking and knowledge-management application.
 
 The vulnerability, tracked as **GHSA-3v39-q26w-c3h7**, combines insufficient ZIP attachment validation with an Nginx configuration issue, potentially allowing authenticated users to achieve Remote Code Execution (RCE).
 
