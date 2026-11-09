@@ -49,6 +49,6 @@ The combination of these issues can result in remote code execution under the pr
 
 Successful exploitation can allow an authenticated user to execute arbitrary PHP code with the privileges of the PHP-FPM worker process.
 
-Website: https://darkocelot.com
+Website: [https://darkocelot.com](https://darkocelot.com/posts/poznote-rce/)
 
 GitHub: https://github.com/Dark-Ocelot
